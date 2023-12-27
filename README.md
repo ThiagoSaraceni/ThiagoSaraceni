@@ -1,7 +1,3 @@
-
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/ThiagoSaraceni/ThiagoSaraceni/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
-
 <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40em"> Olá, sou Thiago Saraceni!</h1>
 <p>👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade São Francisco (4/5). <br>
 💼 Analista de Suporte na MixFiscal, buscando oportunidades como desenvolvedor de software. <br>
